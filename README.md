@@ -9,7 +9,7 @@ The goal is to address key business questions around patient stays, resource uti
 4.Analyzing which medical specialties conducted the most procedures.
 5.Evaluating readmission rates and resource allocation in high-traffic areas.
 # Data Source: 
-The dataset used for this project was sourced from Kaggle.I manipulated the data using Python to preserve only the relevant attributes, and then exported these into CSV files. The final dataset is split into two tables: Demographics and Health.
+The dataset used for this project was sourced from Kaggle(https://www.kaggle.com/datasets/brandao/diabetes?select=diabetic_data.csv).I manipulated the data using Python to preserve only the relevant attributes, and then exported these into CSV files. The final dataset is split into two tables: Demographics and Health.
 # Methodology & Approach:
 We conduct an exploratory data analysis (EDA) using SQL to understand the dataset and extract meaningful insights.
 # Recommendations:
