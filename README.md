@@ -22,3 +22,6 @@ We conduct an exploratory data analysis (EDA) using SQL to understand the datase
 4.Standardize Lab Procedures: Review lab procedures in departments like Internal Medicine to reduce unnecessary tests.
 
 5.Monitor Outcomes by Specialty: Set KPIs for specialties to track patient outcomes and identify areas for improvement.
+
+# Read my article to know more:
+https://medium.com/@deevstock/sql-data-analysis-case-study-optimising-patient-care-and-hospital-operations-cd9816ccfb17
